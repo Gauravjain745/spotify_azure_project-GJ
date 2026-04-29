@@ -1,0 +1,15 @@
+{
+	"name": "df-azureproejctspo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8722cb27-1961-46d8-8099-3c46452000af",
+		"tenantId": "b15c47b6-c5dd-4099-a9f1-91a9b85a7663"
+	}
+}
