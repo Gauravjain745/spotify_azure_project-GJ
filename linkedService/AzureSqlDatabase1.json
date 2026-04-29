@@ -1,0 +1,14 @@
+{
+	"name": "AzureSqlDatabase1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "azureproject-sposerver.database.windows.net",
+			"database": "free-sql-db-8499912",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SystemAssignedManagedIdentity"
+		}
+	}
+}
